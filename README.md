@@ -96,14 +96,7 @@ php artisan migrate
 
 ## Configuração das Rotas
 
-No arquivo `routes/api.php`, adicione as rotas:
-
-```php
-use App\Http\Controllers\PatientController;
-
-Route::apiResource('patients', PatientController::class);
 ```
-
 > O `apiResource` já cria todas as rotas RESTful automaticamente: `index`, `store`, `show`, `update` e `destroy`.
 
 ---
