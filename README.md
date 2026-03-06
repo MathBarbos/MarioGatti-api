@@ -55,8 +55,8 @@ Antes de começar, certifique-se de ter instalado:
 
 - PHP >= 8.1
 - Composer
-- Banco de dados (MySQL, PostgreSQL ou SQLite)
-- Laravel 10
+- Banco de dados PostgreSQL
+- Laravel 12
 
 ---
 
