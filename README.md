@@ -183,13 +183,6 @@ Isso garante respostas consistentes para o frontend.
 
 ---
 
-## Observações
-
-* Todos os endpoints retornam JSON, tornando o sistema ideal para aplicações **SPA** ou **mobile**.
-* Para uso em produção, recomenda-se adicionar **autenticação** (como Laravel Sanctum ou Passport).
-
----
-
 ## Autor
 
 Matheus Santos
